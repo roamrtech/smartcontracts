@@ -1,9 +1,9 @@
-# Project Hydro - Bringing Blockchain to Fintech
-![Hydro](https://www.hydrogenplatform.com/images/logo_hydro.png)
+# Roamr - AI + Blockchain Powered Drone flights for delivery. 
+![Romr](https://pbs.twimg.com/profile_images/1036605621175545856/iW0RH0Wf_400x400.jpg)
 
-## The official Github page for important Hydro documents including whitepapers
-As the Hydro ecosystem continues to evolve, the global development community will be releasing whitepapers for all major phases: Raindrop, Snowflake, Ice, Tide, and Mist.
+## The official Github page for important Roamr documents including whitepapers
+As the Roamr ecosystem continues to evolve, the global development community will be releasing whitepapers for all major phases: Selfdrop, Drone.
 
-A final version of the [Raindrop Whitepaper](./Raindrop) is complete. Drafts of the [Snowflake Whitepaper](./Snowflake) and [Ice Whitepaper](./Ice) are posted and available for review and comment by the global Hydro community. In the future, you can look forward to the Tide and Mist whitepapers. The global Hydro community may even have a few more products that are yet to be announced 😏.
+Selfdrop is an pair of authentication products. Server-side Raindrop is an enterprise-level security protocol to secure APIs and other shared resources, while Client-side Raindrop is a next-gen 2FA solution. [The proof of work](./selfdrop.md) explains both of these, and more. [The whitepaper](./whitepaper.md) Introduces us to the platform.
 
-**Documentation for the Hydro API has been [moved here](https://www.hydrogenplatform.com/docs/hydro/v1)**
+**Documentation for the Hydro API has been [moved here](https://www.roamr.tech)**
