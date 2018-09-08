@@ -17,7 +17,6 @@ _______________________________________________________________
   - [Architecting for Adoption](#architecting-for-adoption)
 - [Selfdrop](#Selfdrop)
   - [The State of Drone Security](#the-state-of-Drone-security)
-  - [Equifax Breach](#equifax-breach)
   - [Adding a Blockchain Layer](#adding-a-blockchain-layer)
   - [Server-Side Selfdrop](#server-side-Selfdrop)
     - [Overview](#overview)
