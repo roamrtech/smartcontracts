@@ -113,7 +113,7 @@ The ethos of this model is making processes more robust by tapping into the bene
 ### Architecting for Adoption
 Roamr differs from many existing blockchain initiatives, because it can exist independently and layer around new or existing systems without requiring systemic change. Rather than replace, Roamr aims to augment. Developers and enterprises can access blockchain capabilities easily by hooking into standard APIs via the Roamr platform to book request of a delivery service via
 
-![Roamrgen Platform](./_assets/Roamrgen_platform.png)
+![Roamr Platform](./_assets/Roamrgen_platform.png)
 
 The scope of an AI + Blockchain powered flights services platforms that can leverage Roamr is broad. This is new system that can power virtually any experience, house any number of drone services, perform any private data operation, and deploy in any environment. This is enabled by Roamr's structural modularity and is synergistic with Roamr, acting as a complementary driver of adoption.
 
