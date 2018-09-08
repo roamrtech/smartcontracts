@@ -6,4 +6,4 @@ As the Roamr ecosystem continues to evolve, the global development community wil
 
 Selfdrop is an pair of authentication products. Server-side Raindrop is an enterprise-level security protocol to secure APIs and other shared resources, while Client-side Raindrop is a next-gen 2FA solution. [The proof of work](./selfdrop.md) explains both of these, and more. [The whitepaper](./whitepaper.md) Introduces us to the platform.
 
-**Documentation for the Hydro API has been [moved here](https://www.roamr.tech)**
+**Documentation for the Roamr API has been [moved here](https://www.roamr.tech)**
