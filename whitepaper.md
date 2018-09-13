@@ -148,6 +148,6 @@ The entire economy will be powered by Roamr’s tokens.
     • ICO** - 2,500,000,000
     • Marketing – 250,000,000
 ## **Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
-Roamr Drone Token price - $0.05*
+RoamrDrone Token price - $0.05*
 * 1 ETH = USD 1,000,000
-Drone token sale – please refer to the token sale document for complete information. 
+RoamrDrone token sale – please refer to the token sale document for complete information. 
