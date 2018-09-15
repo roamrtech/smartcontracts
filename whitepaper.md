@@ -140,14 +140,14 @@ Users will be able to book cargo drones and cargo drone fleet owners will be abl
 The drone marketplace allows users, buyers and sellers of drone products and services to connect seamlessly. To purchase and rent drones, hire drones for their operations/projects, buy drones spare parts, book drone taxis, cargo/package delivery using the marketplace.
 The entire economy will be powered by Roamr’s tokens.
 
-## Drone token distribution
-    • Total token supply – 5,000,000,000
-    • Founders – 1,250,000,000
-    • Advisors – 500,000,000
-    • Pre-sale – 500,000,000
-    • ICO** - 2,500,000,000
+## RoamrDrone token distribution
+    • Total token supply – 11,000,000,000
+    • Team, Development and Airdrop – 3,000,000,000
+    • Advisors – 250,000,000
+    • Pre-sale – 5,000,000,000
     • Marketing – 250,000,000
+    • Reserved Tokens - 3,000,000,000
 ## **Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
 RoamrDrone Token price - $0.05*
-* 1 ETH = USD 1,000,000
+* 1 ETH = 30,000,000
 RoamrDrone token sale – please refer to the token sale document for complete information. 
