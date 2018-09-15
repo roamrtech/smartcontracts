@@ -151,3 +151,6 @@ The entire economy will be powered by Roamr’s tokens.
 RoamrDrone Token price - $0.05*
 * 1 ETH = 30,000,000
 RoamrDrone token sale – please refer to the token sale document for complete information. 
+
+## TEAM
+
