@@ -63,37 +63,37 @@ In the course of such translation or communication some of the information conta
 
 
 ## Introduction
-# Definition of Drones 
+**Definition of Drones**
 They are any aircraft with no pilot onboard either remotely controlled or flown autonomously through software-controlled flight plans working in conjunction with onboard sensors and Global Positioning System (GPS). 
 Until recently, UAS were either prohibitively expensive, limiting their use to government and research organizations or they were of relatively low performance both in utility and the likelihood of interaction with other airspace users. Technological advancements over the years have produced a decrease in costs of production and maintenance and increase in performance which has led to an unprecedented interest in the development of drones. Rapid increase in applications for both military and civil use has been spiked by relatively cheap, high performance platforms.
 Within increase in drone use in government, commercial and leisure sectors, small drones have been projected to become one of the most dynamic sectors in the aviation industry in coming years. Estimations by the federal aviation administration reveals that there are currently 11 million drones currently operational in the U.S. and this is set to increase to between 2.7 million and 4.4 million units by 2021. The commercial drone fleet stands currently at 4,200 units, with increase set for over 400,000 commercial drones in service by 2021. 
 
 # Major Use Cases
-    • Security and Surveillance
+   **• Security and Surveillance**
 A number of industries conduct surveillance using drones outfitted with high resolution or infrared camera. Drones are also used by security personnel to monitor shopping centers and corporate offices. Law enforcement agencies could also use drones as an aid in investigating crimes, for tracking suspects or to protect the nations border.
 
-    • Goods Delivery
+   **• Goods Delivery**
 The delivery of packaged goods and other mail is a potential widespread use of drones.  In addition to making deliveries to a specific location, drones can also fly to and from designated hubs or pickup stations. For example, a retailer delivering packaged goods to a specific location. Such deliveries save costs and time when compared with other conventional means of delivery.
 
-    • Data Collection
+   **• Data Collection**
 Scientist use Drones to collect real time meteorological information about natural phenomenon’s (e.g. earthquakes, hurricanes)
 
-    • Emergency Response
+   **• Emergency Response**
 Drones can aid in search and rescue operations or to help find missing people in difficult to access areas. It can be used by emergency personnel to respond to situations where human life is in danger. Drones can deliver supplies in disaster struck areas and can help fight bushfires by dispersing firefighting chemicals.
 
-    • Agriculture
+   **• Agriculture**
 In Agricultural operations, the application of Drones is wide. It can be used to capture aerial images to monitor crop growth, to detect pests, weeds, flooding or drought conditions and nitrogen deficiencies. Drone with data collection capabilities can also measure heights and generate topographical maps and models for land levelling and drainage application. Farmers can use drones for air pollination and crop spraying. Drones are being experimented in cloud seedling which may increase precipitation by releasing silver iodide into a storm to generate additional rain.
 
-    • Construction
+   **• Construction**
 Commercial construction and architectural firms have found drone imagery and data useful in design and preconstruction works. Drones can also be used for onsite monitoring by engineers simply to capture pictures for periodical reports. Drones can assist in identifying issues and allow onsite managers resolve them quickly leading to performance enhancements. Drones can also be used to collect data on accurate topography maps with elevation contour lines to generate plans and detailed 2d and 3d models.
 
-    • Urban Air Transportation
+   **• Urban Air Transportation**
 Traffic gridlocks and congestions worldwide costs time for millions daily. On-demand passenger drones can radically improve urban mobility thereby saving lost time daily. Vertical Take-off and landing (VTOL) are small electric aircrafts that can take off and land vertically which can improve urban mobility thereby saving costs and time and as such will enable reliable and fast transportation within cities and reduce traffic congestions
 .
-    • Infrastructure Inspection and Claim Handling
+   **• Infrastructure Inspection and Claim Handling**
 Insurance firms and structural engineering firms can benefit from the use of drones. Drones can be used for inspections on roofs, roads, bridges, dams and to survey damaged structures. They provide information for insurers and risk managers in evaluating claims and other exposures.
 
-    • Hazardous Material Assessment
+   **• Hazardous Material Assessment**
 Drone has been successfully used in assessment of situations that are deemed hazardous to human life and health such as chemical spills, contagious diseases outbreak, radiation leaks, etc.
 
 ## Our Vision
@@ -102,7 +102,7 @@ Roamr Passenger and Cargo Drones will completely transform the urban transportat
 Roamr Drone Marketplace will be a hub for any drone related products and services. It will connect both buyers and sellers of drone products seamlessly and efficiently. It will allow users to allows users to purchase and rent drones, hire drones for their operations/projects, buy drones spare parts, book drone taxis, cargo/package delivery using the marketplace.
 
 ## Services
-# • Unmanned Aircraft System Traffic Management (UTM) Platform
+**Unmanned Aircraft System Traffic Management (UTM) Platform**
 As we head into the future where there will be billions of flights from millions of drones, innovators are constantly identifying new, beneficial applications for UAS like infrastructure inspection, goods delivery, 3d mapping, disaster relief, search and rescue etc. the absence of A Pilot on board raises concern about how to handle dangerous situations and to detect and avoid traffic. Airborne collision avoidance systems are not designed to deal with denser traffic but can protect the unmanned aircraft from damage. The risks posed by UAS operations to people and property include injury to persons and damage to property which are compounded in a densely populated urban environment. 
 
 At present there is no system to manage unmanned air traffic. Conventional air traffic management system relies on voice communications between air traffic controllers and pilots and on radar detection and thus cannot be applied to unmanned aircraft. Drones today are rather too small and operate too close to the ground for any radar to be of any use. Larger drones may have to be equipped with voice recognition/speech synthesis radio and have a significantly large radar cross-section. The current airspace management and traffic flow management do no have the facilities and capabilities to handle all drone operations.
@@ -128,7 +128,7 @@ Roamr’s UAS (RU) Flight Authorization System: AI based flight authorization sy
 - Roamr’s UAS (RU) Notification System: Cloud-based notification system that provides notifications, alerts and warnings such as weather alerts etc. to improve awareness of the UAS/PILOT.
 - Roamr’s UAS (RU) Conflict Management System: AI based conflict management system that provides advisories to resolve the conflict when conflicts are detected by the UTM system.
 
-   ## • Passenger Drones
+## Passenger Drones
 Daily worldwide, millions of hours are wasted on roads due to traffic jams and congestion on roads. On-demand passenger drones can radically improve urban mobility thereby saving lost time daily. Vertical Take-off and landing (VTOL) are small electric aircrafts that can take off and land vertically which can improve urban mobility thereby saving costs and time and as such will enable reliable and fast transportation within cities and decongest the roads. We envision that a network of self-flying autonomous drones or “passenger drones” big enough to transport individual commuters will reduce time of transportation hugely. Urban air transportation will use three-dimensional airspace to decongest traffic on the ground similar to how skyscrapers allow cities to use limited land area effectively.
 
 Roamr will work closely with leading passenger drone manufacturers like Volocopter, Ehang, Autonomous passenger Drone and Workhorse to launch Drone Taxi service on its marketplace. Passengers will be able to book drone taxis on the app and drone taxi fleet owners will be able to deploy taxi fleets on the market place.
@@ -148,7 +148,7 @@ The entire economy will be powered by Roamr’s tokens.
     • Pre-sale – 5,000,000,000
     • Marketing – 250,000,000
     • Reserved Tokens - 3,000,000,000
-## **Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
+**Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
 RoamrDrone Token price - $0.05*
 * 1 ETH = 30,000,000
 RoamrDrone token sale – please refer to the token sale document for complete information. 
@@ -173,11 +173,11 @@ She has other specialties including: ICO, STO, Blockchain, Start-up, Product Dev
 
    **[Daniil Morozov](https://www.linkedin.com/in/dmoroz0v/) - Advisor**
    
-   **[Anna Shkilyova](https://www.linkedin.com/in/youricoadvisor/)  - Advisor
+   **[Anna Shkilyova](https://www.linkedin.com/in/youricoadvisor/)  - Advisor**
 
    
 ## TEAM (TECHNOLOGY)
-   **[Thomas McLaughlin](https://www.linkedin.com/in/thomas-mclaughlin-70a39578/) - Chief Blockchain Engineer
+   **[Thomas McLaughlin](https://www.linkedin.com/in/thomas-mclaughlin-70a39578/) - Chief Blockchain Engineer**
    Thomas is a hardworking and motivated individual with over 10 years experience working in IT. He has worked in contracting roles in Ireland, United Kingdom, Australia and Barcelona. He his Currently working on blockchain solutions for NuArca.
    
    **[Kamlesh Nagware](https://www.linkedin.com/in/kamlesh-nagware-1456094b/) - Blockchain Engineer**
