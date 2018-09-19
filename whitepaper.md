@@ -154,13 +154,13 @@ RoamrDrone Token price - $0.05*
 RoamrDrone token sale – please refer to the token sale document for complete information. 
 
 ## TEAM (BOARD)
-    • [Christopher Zenios - CEO](https://www.linkedin.com/in/christopherzenios)
+   ** [Christopher Zenios](https://www.linkedin.com/in/christopherzenios) - CEO**
    Christopher has always been a pioneer, a first adopter when it comes to technological advancements. He was among the first to master Search Engine Optimisation, whist studying at the University of Nicosia, back in the day when Google was just a start-up company and the internet was still at its infancy. He eventually went on to become an accomplished trainer on SEO. An inquisitive spirit on the constant lookout for the next big thing, Christopher dove into the world of blockchain some time ago. Having accumulated enough knowledge and expertise on the subject, he is currently Alcaeus Labs’ COO & Co-Founder, working as a blockchain advisor to organisations, always keeping his feet on solid ground in regards to the future.
    
-    • Arturas Svirskis - Sales Director[https://www.linkedin.com/in/arturassvirskis/]
+  **[Arturas Svirskis](https://www.linkedin.com/in/arturassvirskis/) - Sales Director**
    He his one of the best in business development and marketing, who has a deep understanding and experience in these Fintech      industries: P2P Lending,ICO marketing and process development,Payment Service Providers and e-currency exchangers, Blockchain and cryptocurrencies. Additionally, he has a direct top-tier connections at Fintech industries due to his past experience at EgoPay e.g. Netteler, QIWI, MoneyPolo, Admiral Markets, Huobi, LakeBTC and much more.
    
-    • Mayank Jain - CFO[https://www.linkedin.com/in/mayankjaindeep/]
+  **[Mayank Jain][https://www.linkedin.com/in/mayankjaindeep/] - CFO**
    Mayank Jain studied from the prestigious Institute of Chartered Accountants of India (ICAI) and have an extensive track record in managing complex financial operations, accounting, taxation and business strategy for clients all across India.
    In addition he his an expert in finance and accounting, and through his years of functional experience across a broad range of verticals such as electronics, manufacturing and Blockchain. He has a passion for product development, new technologies and market strategies and this has given him the opportunity to represent as an advisor for several start-ups.
 
