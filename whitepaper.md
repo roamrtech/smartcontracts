@@ -1,5 +1,5 @@
 WhitePaper# Roamr Whitepaper: Public Authentication On The Blockchain
-![Romr](https://pbs.twimg.com/profile_images/1036605621175545856/iW0RH0Wf_400x400.jpg width="300")
+![Romr](https://pbs.twimg.com/profile_images/1036605621175545856/iW0RH0Wf_400x400.jpg)
 ### August 2018
 
 
