@@ -154,38 +154,38 @@ RoamrDrone Token price - $0.05*
 RoamrDrone token sale – please refer to the token sale document for complete information. 
 
 ## TEAM (BOARD)
-   ** [Christopher Zenios](https://www.linkedin.com/in/christopherzenios) - CEO**
+   **[Christopher Zenios](https://www.linkedin.com/in/christopherzenios) - CEO**
    Christopher has always been a pioneer, a first adopter when it comes to technological advancements. He was among the first to master Search Engine Optimisation, whist studying at the University of Nicosia, back in the day when Google was just a start-up company and the internet was still at its infancy. He eventually went on to become an accomplished trainer on SEO. An inquisitive spirit on the constant lookout for the next big thing, Christopher dove into the world of blockchain some time ago. Having accumulated enough knowledge and expertise on the subject, he is currently Alcaeus Labs’ COO & Co-Founder, working as a blockchain advisor to organisations, always keeping his feet on solid ground in regards to the future.
    
   **[Arturas Svirskis](https://www.linkedin.com/in/arturassvirskis/) - Sales Director**
    He his one of the best in business development and marketing, who has a deep understanding and experience in these Fintech      industries: P2P Lending,ICO marketing and process development,Payment Service Providers and e-currency exchangers, Blockchain and cryptocurrencies. Additionally, he has a direct top-tier connections at Fintech industries due to his past experience at EgoPay e.g. Netteler, QIWI, MoneyPolo, Admiral Markets, Huobi, LakeBTC and much more.
    
-  **[Mayank Jain][https://www.linkedin.com/in/mayankjaindeep/] - CFO**
+  **[Mayank Jain](https://www.linkedin.com/in/mayankjaindeep/) - CFO**
    Mayank Jain studied from the prestigious Institute of Chartered Accountants of India (ICAI) and have an extensive track record in managing complex financial operations, accounting, taxation and business strategy for clients all across India.
    In addition he his an expert in finance and accounting, and through his years of functional experience across a broad range of verticals such as electronics, manufacturing and Blockchain. He has a passion for product development, new technologies and market strategies and this has given him the opportunity to represent as an advisor for several start-ups.
 
-    • Madhu Gupta - Advisor[https://www.linkedin.com/in/guptamadhu/]
+   **[Madhu Gupta](https://www.linkedin.com/in/guptamadhu/) - Advisor**
 She is an ICO Expert with expertise in Marketing/ PR, Fundraising, Content Creation, Partnerships. Also, advising and investing in start-ups within high-tech and Blockchain sectors.
 She has other specialties including: ICO, STO, Blockchain, Start-up, Product Development, Team Management, Cross-Functional Communication, Product Management, S/W Development, E-tail, Internet Entrepreneur.
 
-    • David Steel - Advisor[https://www.linkedin.com/in/davidsteel/]
+   **[David Steel](https://www.linkedin.com/in/davidsteel/) - Advisor**
   He his the Founder of Heal Myself, a CBD wellness company that markets and distributes a variety of products that caters to unique needs of people. Launching in November 2018, this new venture is a culmination of my working with some of the biggest CBD brands, doctors, veterinarians, dispensaries and naturopathy practitioners over the last 3 years. 
 
-    • Daniil Morozov - Advisor[https://www.linkedin.com/in/dmoroz0v/]
+   **[Daniil Morozov](https://www.linkedin.com/in/dmoroz0v/) - Advisor**
    
-    • Anna Shkilyova  - Advisor[https://www.linkedin.com/in/youricoadvisor/]
+   **[Anna Shkilyova](https://www.linkedin.com/in/youricoadvisor/)  - Advisor
 
    
 ## TEAM (TECHNOLOGY)
-    • Thomas McLaughlin - Chief Blockchain Engineer[https://www.linkedin.com/in/thomas-mclaughlin-70a39578/]
+   **[Thomas McLaughlin](https://www.linkedin.com/in/thomas-mclaughlin-70a39578/) - Chief Blockchain Engineer
    Thomas is a hardworking and motivated individual with over 10 years experience working in IT. He has worked in contracting roles in Ireland, United Kingdom, Australia and Barcelona. He his Currently working on blockchain solutions for NuArca.
    
-    • Kamlesh Nagware - Blockchain Engineer[https://www.linkedin.com/in/kamlesh-nagware-1456094b/]
+   **[Kamlesh Nagware](https://www.linkedin.com/in/kamlesh-nagware-1456094b/) - Blockchain Engineer**
    Kamlesh has 8 years experience in Software Development & IT Consulting in Blockchain-Supply Chain management/Solutions and different blockchain solutions. Presently working with IBM as Blockchain Consultant.IBM Certified Blockchain Developer and Passionate about learning new technologies.
 Currently working as Blockchain Consultant and developer in various blockchain projects - supply chain management, Identity management, government use cases. Exploring Blockchain technologies like Hyperledger Composer, Hyperledger Fabric,Permisioned Blockchain ,Smart Contract, Consensus Mechanisms like PoW,PoS,PoET,PBFT, and Bitcoin crypto-currencies.
 DevOps -continuous integration Continuous Delivery using IBM DevOps delivery pipeline for Developing Distributed applications in IBM Cloud.
 
-    • Parth Raval - Blockchain Developer[https://www.linkedin.com/in/parth-raval-a6512777/]
+  **[Parth Raval](https://www.linkedin.com/in/parth-raval-a6512777/) - Blockchain Developer**
 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.
 Blockchain development contains various layers, starting from web development, designing the Blockchain network, keeping the privacy metrics, integrating with business applications, converting the business rules in smart contracts on different platforms.
    
