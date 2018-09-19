@@ -132,6 +132,8 @@ Roamr’s UAS (RU) Flight Authorization System: AI based flight authorization sy
 ## Passenger Drones
 Daily worldwide, millions of hours are wasted on roads due to traffic jams and congestion on roads. On-demand passenger drones can radically improve urban mobility thereby saving lost time daily. Vertical Take-off and landing (VTOL) are small electric aircrafts that can take off and land vertically which can improve urban mobility thereby saving costs and time and as such will enable reliable and fast transportation within cities and decongest the roads. We envision that a network of self-flying autonomous drones or “passenger drones” big enough to transport individual commuters will reduce time of transportation hugely. Urban air transportation will use three-dimensional airspace to decongest traffic on the ground similar to how skyscrapers allow cities to use limited land area effectively.
 
+![Romr Passenger Drone](https://pbs.twimg.com/media/DnTLvOCW4AEf2ND.jpg:large)
+
 Roamr will work closely with leading passenger drone manufacturers like Volocopter, Ehang, Autonomous passenger Drone and Workhorse to launch Drone Taxi service on its marketplace. Passengers will be able to book drone taxis on the app and drone taxi fleet owners will be able to deploy taxi fleets on the market place.
 Cargo Drones are being used for goods transportation because it offers numerous advantages. It is not constrained by road infrastructure and congestion and can deliver packages faster than wheeled vehicles from close-by storage location.it can easily fly over water bodies, rural areas with poor infrastructure and difficult terrains (mountains, forest) with relative ease to deliver cargoes. 
 
