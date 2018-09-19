@@ -1,4 +1,5 @@
 WhitePaper# Roamr Whitepaper: Public Authentication On The Blockchain
+![Romr](https://pbs.twimg.com/profile_images/1036605621175545856/iW0RH0Wf_400x400.jpg)
 ### August 2018
 
 
@@ -137,7 +138,7 @@ Cargo Drones are being used for goods transportation because it offers numerous 
 A widespread use of drones involves the delivery of packages goods and other mal. In addition to making deliveries to a specific shipping address, drones could fly to and from designated hubs or pickup stations. For example, a retailer could use a drone to deliver goods or documents to an assigned location where customers would receive their packages. Such delivery reportedly may be completed in less time [and at lower cost] than conventional means of delivery.
 Users will be able to book cargo drones and cargo drone fleet owners will be able to deploy their drone fleets on the marketplace application.
 
-    # • Drone Market Place
+# Drone Market Place
 The drone marketplace allows users, buyers and sellers of drone products and services to connect seamlessly. To purchase and rent drones, hire drones for their operations/projects, buy drones spare parts, book drone taxis, cargo/package delivery using the marketplace.
 The entire economy will be powered by Roamr’s tokens.
 
