@@ -154,7 +154,7 @@ RoamrDrone Token price - $0.05*
 RoamrDrone token sale – please refer to the token sale document for complete information. 
 
 ## TEAM (BOARD)
-    • Christopher Zenios - CEO[https://www.linkedin.com/in/christopherzenios]
+    • [Christopher Zenios - CEO](https://www.linkedin.com/in/christopherzenios)
    Christopher has always been a pioneer, a first adopter when it comes to technological advancements. He was among the first to master Search Engine Optimisation, whist studying at the University of Nicosia, back in the day when Google was just a start-up company and the internet was still at its infancy. He eventually went on to become an accomplished trainer on SEO. An inquisitive spirit on the constant lookout for the next big thing, Christopher dove into the world of blockchain some time ago. Having accumulated enough knowledge and expertise on the subject, he is currently Alcaeus Labs’ COO & Co-Founder, working as a blockchain advisor to organisations, always keeping his feet on solid ground in regards to the future.
    
     • Arturas Svirskis - Sales Director[https://www.linkedin.com/in/arturassvirskis/]
