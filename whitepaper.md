@@ -5,6 +5,8 @@ WhitePaper# Roamr Whitepaper: Public Authentication On The Blockchain
 
 ## White paper – Drone economy based on Blockchain AI driven technology
 
+![Romr](https://pbs.twimg.com/media/DnbLhU_VAAARFBc.jpg:large)
+
 
     • Roamr UTM – Intelligent, Decentralized, conscious, autonomous drone traffic management platform.
     • Roamr passenger & Cargo Drones – Transportation of people and goods running on Roamr UTM USING Vertical Take-Off and Landing (VTOL) aircrafts.
