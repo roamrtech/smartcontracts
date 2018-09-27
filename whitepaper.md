@@ -1,4 +1,4 @@
-WhitePaper# Roamr Whitepaper: Public Authentication On The Blockchain
+WhitePaper# Roamr Whitepaper: Public Authentication On The Blockchain(https://roamrtech.com)
 ![Romr](https://pbs.twimg.com/profile_images/1036605621175545856/iW0RH0Wf_400x400.jpg)
 ### August 2018
 
@@ -153,6 +153,9 @@ The entire economy will be powered by Roamr’s tokens.
     • Pre-sale – 4,500,000,000
     • Marketing – 250,000,000
     • Reserved Tokens - 3,000,000,000
+    
+**[Smart Contract: 0xce98b97a823e397f23565331be0a5fc9e7f6d1b7 ](https://etherscan.io/token/0xce98b97a823e397f23565331be0a5fc9e7f6d1b7)**
+
 **Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
 RoamrDrone Token price - $0.05*
 * 1 ETH = 30,000,000
