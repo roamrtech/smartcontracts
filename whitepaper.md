@@ -150,7 +150,7 @@ The entire economy will be powered by Roamr’s tokens.
     • Total token supply – 11,000,000,000
     • Team, Development and Airdrop – 3,000,000,000
     • Advisors – 250,000,000
-    • Pre-sale – 5,000,000,000
+    • Pre-sale – 4,500,000,000
     • Marketing – 250,000,000
     • Reserved Tokens - 3,000,000,000
 **Tokens that are not sold in ICO sale shall be burned after the completion of the ICO
